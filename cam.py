@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
-#github.com/AngelSecurityTeam/Cam-Hackers
+#github.com/Zuck-Ker/cctv
 
 import requests, re , colorama
 colorama.init()
