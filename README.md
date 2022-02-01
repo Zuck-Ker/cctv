@@ -19,6 +19,8 @@
 * cd cctv
 
 * python3 cam.py
+# hai
 
+https://github.com/Zuck-Ker/cctv/blob/main/camfoto2.png
 
 # THANKS
